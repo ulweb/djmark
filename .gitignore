@@ -1,0 +1,5 @@
+*.pyc
+
+venv/
+djmark/local_settings.py
+djmark/media
